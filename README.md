@@ -49,8 +49,7 @@ Banks deal with large volumes of customer and loan data. Without a visual and ce
 .The map visual shows regional variations in loan activity, helping to identify high- and low-performing states
 
 7.Dashboard Screenshot
- 
-
+ https://github.com/shoyeb-tech/Bank-Loan-Dashboard/blob/main/Screenshot%202025-07-28%20031350.png
 
 
 
